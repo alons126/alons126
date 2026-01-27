@@ -16,9 +16,9 @@ Comfortable working at the intersection of physics and software engineering.
 - Sole author of the accompanying CLAS12 technical note documenting the implementation
 - Tech stack: C++, Git, GitHub, simulation frameworks
 
-PR (clas12Tags): https://github.com/gemc/clas12Tags/pull/64  
-PR (clas12-config): https://github.com/JeffersonLab/clas12-config/pull/119  
-Technical note: (link once posted)
+**PR (clas12Tags):** https://github.com/gemc/clas12Tags/pull/64  
+**PR (clas12-config):** https://github.com/JeffersonLab/clas12-config/pull/119  
+**Technical note:** (link once posted)
 
 ---
 
@@ -30,7 +30,7 @@ Technical note: (link once posted)
 - Integrated new tensor tables, fixed probability calculations, and restored 2p / 2n final states
 - Corrections merged into the official GENIE codebase (v3.4+)
 
-PR: https://github.com/GENIE-MC/Generator/pull/242  
+**PR:** https://github.com/GENIE-MC/Generator/pull/242  
 Detailed validation in MSc thesis, Section 9.1.3
 
 ---
