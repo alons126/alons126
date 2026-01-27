@@ -18,7 +18,6 @@ Comfortable working at the intersection of physics and software engineering.
 
 PR (clas12Tags): https://github.com/gemc/clas12Tags/pull/64  
 PR (clas12-config): https://github.com/JeffersonLab/clas12-config/pull/119  
-
 Technical note: (link once posted)
 
 ---
