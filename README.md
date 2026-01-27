@@ -37,6 +37,7 @@ Detailed validation in MSc thesis, Section 9.1.3
 
 ## Skills
 - **Languages:** C++, Python, Perl
+- **Scripting:** Bash, C shell (csh)
 - **Tools:** Git / GitHub (PRs, reviews, CI)
 - **Domains:** Scientific simulation, data analysis
 - **Systems:** Linux, HPC environments
