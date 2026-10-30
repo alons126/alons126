@@ -8,6 +8,20 @@ Comfortable working at the intersection of physics and software engineering.
 
 ## Selected Projects
 
+### CLAS12 Sample Tools
+**Configurable sample preparation and HPC job submission for detector simulation**
+
+- Developed a unified workflow for creating simulation input from uniformly sampled particle kinematics or existing GENIE event output
+- Centralized configuration validation, target vertex sampling, file handling, and run metadata across both input paths
+- Automated Slurm job-array submission for GEMC detector simulation and COATJAVA reconstruction at Jefferson Lab
+- Structured the code to support additional event-generator formats without duplicating the common workflow
+- Tech stack: C++, Python, C shell, ROOT, CMake, Slurm
+
+**Repositories:** [Personal](https://github.com/alons126/CLAS12-sample-tools) · [e4ν collaboration](https://github.com/e4nu/CLAS12-sample-tools)  
+**Documentation:** [Personal wiki](https://github.com/alons126/CLAS12-sample-tools/wiki) · [Collaboration wiki](https://github.com/e4nu/CLAS12-sample-tools/wiki)
+
+---
+
 ### GEMC / CLAS12 Target Implementation (RG-M)
 **Production geometry implementation merged into an international, multi-institutional simulation framework**
 
@@ -37,13 +51,11 @@ Detailed validation in MSc thesis, Section 9.1.3
 
 ## Skills
 - **Languages:** C++, Python, Perl
-- **Scripting:** Bash, C shell (csh), Makefile
-- **Configuration formats:** XML, GEMC gcard files
+- **Scripting:** Bash, C shell (csh)
+- **Build tools:** CMake, Make
+- **Configuration and data formats:** XML, JSON, GEMC gcard files
 - **Frameworks:** ROOT, CLAS12ROOT, GENIE, GEANT4, GEMC
-- **Tools:** Git / GitHub (PRs, reviews), CMake
-- **Domains:** Monte Carlo simulation, particle physics software, Scientific simulation, detector geometry, data analysis, event reconstruction, algorithm development
-- **Systems:** Linux, HPC environments (batch systems, shared clusters), Slurm
-
-<!-- ---
-
-Currently open to **industry roles** in scientific software, simulation, or data-oriented engineering. -->
+- **Development tools:** Git / GitHub (pull requests, code reviews)
+- **Software engineering:** Modular software design, workflow automation, configuration validation, debugging, technical documentation
+- **Domains:** Monte Carlo simulation, scientific validation, particle physics software, detector geometry, data analysis, event reconstruction, algorithm development
+- **Systems:** Linux, HPC environments, Slurm job arrays
